@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Company Name//Webinar Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Webinar Events
+BEGIN:VEVENT
+DTSTART:20230418T070000Z
+DTEND:20230418T080000Z
+SUMMARY:Company Culture, to Deliver Business Strategy
+DESCRIPTION:We teach you everything you need to know to align company culture to deliver business strategy.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230420T070000Z
+DTEND:20230420T080000Z
+SUMMARY:Company Culture, to Deliver Business Strategy
+DESCRIPTION:We teach you everything you need to know to align company culture to deliver business strategy.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230424T070000Z
+DTEND:20230424T080000Z
+SUMMARY:Company Culture, to Deliver Business Strategy
+DESCRIPTION:We teach you everything you need to know to align company culture to deliver business strategy.
+END:VEVENT
+END:VCALENDAR
